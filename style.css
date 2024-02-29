@@ -100,8 +100,15 @@ html{
 h1{
     letter-spacing: .125rem;
     font-family: Josefinslab, sans-serrif;
+    font-size: 3.75rem;
+    margin: 1.125rem;
+    text-align: center;
 }
-h2{}
+h2{
+    letter-spacing: .125rem;
+    font-family: Josefinslab, sans-serrif;
+    font-size: 1.5rem;
+}
 h2 + p{}
 p{}
 li{}
