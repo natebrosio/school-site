@@ -94,11 +94,18 @@ header, footer {
 
 
 /* Typography Styles */
-
-
-
-
-
+html{
+    font-family: Montserrat, sans-serrif;
+}
+h1{
+    letter-spacing: .125rem;
+    font-family: Josefinslab, sans-serrif;
+}
+h2{}
+h2 + p{}
+p{}
+li{}
+figcaption{}
 
 /* Link Styling */
 
